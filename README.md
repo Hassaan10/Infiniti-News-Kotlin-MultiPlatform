@@ -10,11 +10,10 @@ News app made in Compose Multiplatform with clean architecture using using MVI. 
 - All News
 - News Detail
 
-## GIF
-|                     Android                     |                     iOS                     | 
-|:----------------------------------------------:|:--------------------------------------------:|
+## Video
+|                                Android                                          |                                       iOS                                       | 
+|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
 | https://github.com/user-attachments/assets/7819fd41-f5b1-4776-ac95-3dc3371ef331 | https://github.com/user-attachments/assets/9067d40c-b116-4148-a325-352d7fabdc7c |
-
 
 
 ## Installation
